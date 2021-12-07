@@ -476,17 +476,17 @@ public class frmFactura extends javax.swing.JFrame {
         txtCant.setEnabled(false);
         txtCodFar.setEnabled(false);
         
-        txtNumFact.setText("");
-        txtFecha.setText("");
-        txtCedCli.setText("");
-        txtCodEmp.setText("");
-        txtCant.setText("");
-        txtCodFar.setText("");
-        lblPrecio.setText("");
-        lblSub.setText("");
-        lblIVA.setText("");
-        lblSubTotal.setText("");
-        lblTotal.setText("");
+//        txtNumFact.setText("");
+//        txtFecha.setText("");
+//        txtCedCli.setText("");
+//        txtCodEmp.setText("");
+//        txtCant.setText("");
+//        txtCodFar.setText("");
+//        lblPrecio.setText("");
+//        lblSub.setText("");
+//        lblIVA.setText("");
+//        lblSubTotal.setText("");
+//        lblTotal.setText("");
         
         
         
